@@ -1,0 +1,5 @@
+name: sim
+channels:
+  - defaults
+prefix: C:\Users\edwar\.conda\envs\sim
+
