@@ -1,5 +1,5 @@
-name: sim
+name: physics
 channels:
   - defaults
-prefix: C:\Users\edwar\.conda\envs\sim
+prefix: C:\Users\edwar\.conda\envs\physics
 
